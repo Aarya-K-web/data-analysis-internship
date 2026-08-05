@@ -1,0 +1,52 @@
+Order_ID,Order_Date,Customer_Name,City,Category,Product,Quantity,Unit_Price,Discount,Payment_Mode,Sales
+1001,2026-01-03,Aarav Sharma,Nagpur,Electronics,Wireless Mouse,2,850,0.05,UPI,1615.0
+1002,2026-01-05,Priya Patil,Pune,Furniture,Office Chair,1,6500,0.1,Credit Card,5850.0
+1003,2026-01-08,Rahul Verma,Mumbai,Electronics,Keyboard,3,1200,0.05,UPI,3420.0
+1004,2026-01-12,Sneha Joshi,Nagpur,Stationery,Notebook,10,120,0.0,Cash,1200.0
+1005,2026-01-15,Vikram Singh,Nashik,Electronics,Bluetooth Speaker,2,2200,0.08,Debit Card,4048.0
+1006,2026-01-18,Neha Kulkarni,Pune,Stationery,Pen Set,15,180,0.05,UPI,2565.0
+1007,2026-01-22,Amit Deshmukh,Mumbai,Furniture,Study Table,1,7200,0.12,Credit Card,6336.0
+1008,2026-01-25,  Pooja Pawar  ,Nagpur,Electronics,USB Cable,8,350,0.03,UPI,2716.0
+1009,2026-02-02,Rohan Mehta,Nashik,Electronics,Wireless Mouse,4,850,0.05,Debit Card,3230.0
+1010,2026-02-06,Kavya Shah,Pune,Furniture,Bookshelf,2,4800,0.1,Credit Card,8640.0
+1011,2026-02-09,Sahil More,Mumbai,Stationery,Notebook,20,120,0.0,Cash,2400.0
+1012,2026-02-13,Anjali Rao,Nagpur,Electronics,Keyboard,2,1200,0.05,UPI,2280.0
+1013,2026-02-17,Manish Jadhav,Nashik,Furniture,Office Chair,2,6500,0.15,Credit Card,11050.0
+1014,2026-02-21,Riya Gupta,Pune,Electronics,Bluetooth Speaker,3,2200,0.08,UPI,6072.0
+1015,2026-02-25,Kunal Jain,Mumbai,Stationery,Pen Set,12,180,0.05,Cash,2052.0
+1016,2026-03-03,Sneha Joshi,Nagpur,Furniture,Study Table,1,7200,0.1,Debit Card,6480.0
+1017,2026-03-07,Aarav Sharma,Nagpur,Electronics,USB Cable,10,350,0.0,UPI,3500.0
+1018,2026-03-11,Priya Patil,Pune,Electronics,Wireless Mouse,5,850,0.07,Credit Card,3952.5
+1019,2026-03-15,Rahul Verma,Mumbai,Stationery,Notebook,25,120,0.05,UPI,2850.0
+1020,2026-03-19,Vikram Singh,Nashik,Furniture ,Bookshelf,1,4800,0.1,Debit Card,4320.0
+1021,2026-03-24,Neha Kulkarni,Pune,Electronics,Keyboard,4,1200,0.05,UPI,4560.0
+1022,2026-03-28,Amit Deshmukh,Mumbai,Furniture,Office Chair,2,6500,0.12,Credit Card,11440.0
+1023,2026-04-02,Pooja Pawar,Nagpur,Stationery,Pen Set,18,180,0.0,Cash,3240.0
+1024,2026-04-06,Rohan Mehta,Nashik,Electronics,Bluetooth Speaker,4,2200,0.1,UPI,7920.0
+1025,2026-04-10,Kavya Shah,Pune,Furniture,Study Table,2,7200,0.08,Credit Card,13248.0
+1026,2026-04-14,Sahil More,Mumbai,Electronics,USB Cable,12,350,0.05,Debit Card,3990.0
+1027,2026-04-18,Anjali Rao,Nagpur,Electronics,Wireless Mouse,3,850,0.05,UPI,2422.5
+1028,2026-04-22,Manish Jadhav,Nashik,Stationery,Notebook,30,120,0.0,Cash,3600.0
+1029,2026-04-26,Riya Gupta,Pune,Electronics,Keyboard,5,1200,0.1,Credit Card,5400.0
+1030,2026-04-29,Kunal Jain,Mumbai,Furniture,Bookshelf,2,4800,0.12,Debit Card,8448.0
+1031,2026-05-03,Aarav Sharma,Nagpur,Electronics,Bluetooth Speaker,3,2200,0.05,UPI,6270.0
+1032,2026-05-07,Priya Patil,Pune,Furniture,Office Chair,3,6500,0.1,UPI ,17550.0
+1033,2026-05-11,Rahul Verma,Mumbai,Stationery,Pen Set,20,180,0.05,Cash,3420.0
+1034,2026-05-15,Sneha Joshi,Nagpur,Electronics,USB Cable,15,350,0.0,UPI,5250.0
+1035,2026-05-19,Vikram Singh,Nashik,Furniture,Study Table,1,7200,0.15,Debit Card,6120.0
+1036,2026-05-23,Neha Kulkarni,Pune,Electronics,Wireless Mouse,6,850,0.08,UPI,4692.0
+1037,2026-05-27,Amit Deshmukh,Mumbai,Furniture,Bookshelf,2,4800,0.1,Credit Card,8640.0
+1038,2026-05-30,Pooja Pawar,Nagpur,Stationery,Notebook,35,120,0.05,Cash,3990.0
+1039,2026-06-04,Rohan Mehta,Nashik,Electronics,Keyboard,6,1200,0.05,UPI,6840.0
+1040,2026-06-08,Kavya Shah,Pune,Furniture,Office Chair,2,6500,0.12,Credit Card,11440.0
+1041,2026-06-12,Sahil More,Mumbai,Electronics,Bluetooth Speaker,5,2200,0.1,Debit Card,9900.0
+1042,2026-06-16,Anjali Rao,Nagpur,Stationery,Pen Set,25,180,0.0,Cash,4500.0
+1043,2026-06-20,Manish Jadhav,Nashik,Furniture,Study Table,2,7200,0.1,Credit Card,12960.0
+1044,2026-06-24,Riya Gupta,Pune,Electronics,USB Cable,20,350,0.05,UPI,6650.0
+1045,2026-06-28,Kunal Jain,Mumbai,Electronics,Wireless Mouse,7,850,0.07,Debit Card,5533.5
+1046,2026-07-02,Aarav Sharma,Nagpur,Furniture,Bookshelf,2,4800,0.1,Credit Card,8640.0
+1047,2026-07-06,Priya Patil,Pune,Electronics,Keyboard,7,1200,0.05,UPI,7980.0
+1048,2026-07-XX,Rahul Verma,Mumbai,Stationery,Notebook,40,120,0.05,Cash,4560.0
+1049,2026-07-14,Sneha Joshi,Nagpur,Electronics,Bluetooth Speaker,4,2200,0.08,UPI,8096.0
+1050,2026-07-18,Vikram Singh,Nashik,Furniture,Office Chair,3,6500,0.12,Credit Card,17160.0
+1003,2026-01-08,Rahul Verma,Mumbai,Electronics,Keyboard,3,1200,0.05,UPI,3420.0
