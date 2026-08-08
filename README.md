@@ -11,7 +11,7 @@ Welcome to my Data Analysis Internship repository. This portfolio documents my d
 | **2026-07-30** | Task 1: Sales Data Analysis | Python, Pandas, Seaborn, Codex | [`sales_data.csv`](./sales_data.csv) \| [`notebook.ipynb`](./notebook.ipynb) |  Completed |
 | **2026-07-31** | Part A: General Python Tasks (1–7) | Python, Unittest, Codex | [View Tasks Breakdown](#-part-a--general-python-tasks-2026-07-31) |  Completed |
 | **2026-07-31** | Part B: NumPy Operations (1–5) | NumPy, Vectors, Matrices | [View Part B Breakdown](#-part-b--numpy-operations-2026-07-31) |  Completed |
-| **2026-08-01 & 2026-08-02** | NumPy Distributions & Random Simulation | NumPy, Matplotlib, Seaborn, Unittest | [`1-8-26 & 2-8-26.ipynb`](./1%20%26%202-08-26/1-8-26%20%26%202-8-26.ipynb) | ✅ Completed |
+| **2026-08-01 & 2026-08-02** | NumPy Distributions & Random Simulation | NumPy, Matplotlib, Seaborn, Unittest | [`1-8-26 & 2-8-26.ipynb`](./1-8-26%20%26%202-8-26.ipynb) | ✅ Completed |
 ---
 
 ##  Part A — General Python Tasks (2026-07-31)
